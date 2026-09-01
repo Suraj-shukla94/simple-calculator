@@ -23,7 +23,7 @@ This project performs basic arithmetic operations using user input.
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone https://github.com/Suraj-shukla94/simple-calculator
 ```
 
 ### 2. Open the project
