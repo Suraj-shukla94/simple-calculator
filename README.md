@@ -29,7 +29,7 @@ git clone https://github.com/Suraj-shukla94/simple-calculator
 ### 2. Open the project
 
 ```bash
-cd <PROJECT-FOLDER>
+cd PROJECT-FOLDER
 ```
 
 ### 3. Compile the program
